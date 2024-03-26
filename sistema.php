@@ -113,6 +113,6 @@ input[type="submit"]:hover {
         echo "Nome do Vendedor: $nome<br>";
         echo "Salário Final: R$ " . number_format($salarioFinal, 2, ",", ".");
     }
-    ?>
+   ?>
 </body>
 </html>
