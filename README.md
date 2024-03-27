@@ -2,7 +2,7 @@
 [SISTEMA_SALARIO](#sistema_salario)  
 [Descrição](#descrição)   
 [Funcionalidades](#funcionalidades)  
-[Autor](#autor)
+[Autora](#autora)
 
 # Sistema_salario
 
@@ -32,6 +32,6 @@ Apresentação ao usuário do valor do salário calculado, incluindo os detalhes
 (![image info](vídeo/Gravando.gif))
 
 
-## Autor ✍️
+## Autora ✍️
 [Julia] https://github.com/juliaburque/Sistema_salario
 
